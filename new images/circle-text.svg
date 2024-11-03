@@ -1,0 +1,6 @@
+<svg class="tg-circle-text-path tg-animation-spin" viewBox="0 0 100 100" width="120" height="120">
+                                        <defs><path id="circle" d="M 50, 50 m -37, 0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0"></path></defs>
+                                        <text font-size="11.75">
+                                            <textPath xlink:href="#circle">view in opensea • view in opensea •</textPath>
+                                        </text>
+                                    </svg>
